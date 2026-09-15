@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>24174764</id>
+    <name>Estoque, Mary Joy M.</name>
+    <course>Bachelor of Science in Information Technology</course>
+    <year>3RD</year>
+  </student>
+  <student>
+    <id>24174758</id>
+    <name>Abaya, Jervina </name>
+    <course>Bachelor of Science in Communication</course>
+    <year>2RD</year>
+  </student>
+</students>
